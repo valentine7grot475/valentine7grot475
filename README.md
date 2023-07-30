@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @valentine7grot475
+- 👀 I’m interested in web designs. I’m currently learning Vue.js.
+- 🌱 Web development student skilled in Vue.js. Striving for intuitive.
